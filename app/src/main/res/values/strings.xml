@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AngkotKu</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="welcome">Halo\nSelamat datang di AngkotKu</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="no_hp">No Hp</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register_to_login">Sudah punya akun?\n<u>Login</u></string>
+    <string name="login_to_register">Belum punya akun?\n<u>Register</u></string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="status_non_aktif">Tidak Aktif</string>
+    <string name="status_aktif"> Aktif</string>
+</resources>

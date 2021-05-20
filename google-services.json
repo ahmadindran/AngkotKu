@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142158822505",
+    "firebase_url": "https://angkotku-1d9af-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "angkotku-1d9af",
+    "storage_bucket": "angkotku-1d9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142158822505:android:6bbd7cc6e990ff0455f6f8",
+        "android_client_info": {
+          "package_name": "org.prototype.angkotku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142158822505-mmn1vqrcoe779rfvke5nsdu5m67vpgtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jgJOLohvAvwyqbf6eRYM9QGv6OcUte4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142158822505-mmn1vqrcoe779rfvke5nsdu5m67vpgtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
